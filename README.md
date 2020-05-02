@@ -1,4 +1,4 @@
-# Plan_Next_Trip
+# Next_Trip_Plan
 
 ## Project Overview
 In this module, we’ll practice our analysis, visualization, and statistical skills by retrieving and analyzing weather data for a hypothetical travel company, PlanMyTrip. Successfully completing the tasks will draw on our knowledge of Python, decision and repetition statements, data structures, Pandas, Matplotlib, and SciPy statistics.
