@@ -65,4 +65,4 @@ _ Use the list indexing and Pandas methods to get the latitude-longitude pairs f
 
 For the travel_mode, we used either DRIVING, BICYCLING, or WALKING.
 
-## View [Live Demo](https://hbostanchi.github.io/Next_Trip_Plan/)
+# View [Live Demo](https://hbostanchi.github.io/Next_Trip_Plan/) Next_Trip_Plan
