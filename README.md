@@ -64,3 +64,5 @@ _ Used the directions Layer instructions from the gmaps documentation
 _ Use the list indexing and Pandas methods to get the latitude-longitude pairs for each city DataFrame as tuples.
 
 For the travel_mode, we used either DRIVING, BICYCLING, or WALKING.
+
+## View [Live Demo](https://hbostanchi.github.io/Next_Trip_Plan/)
