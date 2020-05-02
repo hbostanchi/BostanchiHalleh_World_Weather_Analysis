@@ -51,17 +51,17 @@ Our new hotel DataFrame looks similar to the following image:
 ### WeatherPy_challenge DataFrame
 
 From the filtered DataFrame we added the cities to a marker layer map with a pop-up marker for each city that includes:
-_ Hotel name
-_ City
-_ Country
-_ Current weather description with the maximum temperature
+- Hotel name
+- City
+- Country
+- Current weather description with the maximum temperature
 
 ### Part 3)Create a Travel Itinerary with a Corresponding Map
 We created a map (travel itinerary) that shows the route between four cities from the customer’s possible travel destinations, and then created a map with pop-up markers for the four cities, by:
 Importing the WeatherPy_vacation.csv file as a new DataFrame. From the vacation search map, we chose four cities in close proximity on our map that are on the same continent that a customer might travel to, and then created a directions layer map.
-_ We Filtered the DataFrame for each city we wanted to go to and created separate DataFrames for each city.
-_ Used the directions Layer instructions from the gmaps documentation
-_ Use the list indexing and Pandas methods to get the latitude-longitude pairs for each city DataFrame as tuples.
+- We Filtered the DataFrame for each city we wanted to go to and created separate DataFrames for each city.
+- Used the directions Layer instructions from the gmaps documentation
+- Use the list indexing and Pandas methods to get the latitude-longitude pairs for each city DataFrame as tuples.
 
 For the travel_mode, we used either DRIVING, BICYCLING, or WALKING.
 
